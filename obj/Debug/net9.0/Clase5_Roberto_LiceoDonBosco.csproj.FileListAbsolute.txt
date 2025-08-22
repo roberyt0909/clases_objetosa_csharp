@@ -1,0 +1,14 @@
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\bin\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.exe
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\bin\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.deps.json
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\bin\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.runtimeconfig.json
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\bin\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.dll
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\bin\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.pdb
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.dll
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\refint\Clase5_Roberto_LiceoDonBosco.dll
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.pdb
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\Clase5_Roberto_LiceoDonBosco.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\Clase5_Roberto_LiceoDonBosco\obj\Debug\net9.0\ref\Clase5_Roberto_LiceoDonBosco.dll
