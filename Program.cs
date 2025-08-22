@@ -1,4 +1,6 @@
 ﻿// Roberto Astudillo - Don Bosco
+using System.Dynamic;
+
 public class Estudiante
 {
 
@@ -27,5 +29,23 @@ public class Program
         estudiante2.Nombre = "Jordan";
         estudiante2.Apellido = "Laferte";
         estudiante2.Informacion();
+
+        Auto auto1 = new Auto();
+        auto1.Color = "Rojo";
+        auto1.Marca = "Ford";
+        auto1.Frenar();
     }
 }
+
+public class Auto {
+    public string Color { get; set; }
+    
+    public string? Marca { get; set; }
+    
+    public void Frenar()
+    {
+        Console.WriteLine($"Su auto acaba de frenar");
+        Console.WriteLine($"{Marca} - {Color}");
+    }
+}
+
